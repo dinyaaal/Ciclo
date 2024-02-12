@@ -1427,11 +1427,11 @@ body {
   }
 
   .fp-bullets .fp-bullet {
-    width: 3.125rem;
+    width: 1.875rem;
     height: 0.3125rem;
     -webkit-box-flex: 0;
-        -ms-flex: 0 0 3.125rem;
-            flex: 0 0 3.125rem;
+        -ms-flex: 0 0 1.875rem;
+            flex: 0 0 1.875rem;
   }
 
   .block-header {
