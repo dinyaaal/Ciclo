@@ -562,7 +562,7 @@
             }));
         }
     }), 0);
-    window["FLS"] = true;
+    window["FLS"] = 0;
     isWebp();
     addLoadedClass();
     digitsCounter();
